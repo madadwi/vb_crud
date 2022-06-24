@@ -1,0 +1,9 @@
+D:\latihan vb net\crud\crud\bin\Debug\crud.exe
+D:\latihan vb net\crud\crud\bin\Debug\crud.pdb
+D:\latihan vb net\crud\crud\bin\Debug\crud.xml
+D:\latihan vb net\crud\crud\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\latihan vb net\crud\crud\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\latihan vb net\crud\crud\obj\x86\Debug\crud.vbproj.GenerateResource.Cache
+D:\latihan vb net\crud\crud\obj\x86\Debug\crud.exe
+D:\latihan vb net\crud\crud\obj\x86\Debug\crud.xml
+D:\latihan vb net\crud\crud\obj\x86\Debug\crud.pdb
